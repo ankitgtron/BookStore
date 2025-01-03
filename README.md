@@ -81,7 +81,7 @@ This project is structured to ensure a systematic and incremental development pr
      - **Video:** [MongoDB Schema Design](https://www.youtube.com/watch?v=DZBGEVgL2eE)  
   2. Add signup and login forms in React.js.  
      - **Reading:** [React Forms](https://reactjs.org/docs/forms.html)  
-     - **Video:** [Building React Forms](https://www.youtube.com/watch?v=5Y4STV8bnK4)  
+     - **Video:** [Building React Forms](https://www.youtube.com/watch?v=SdzMBWT2CDQ&t=592s)  
 
 - **Deliverables:**  
   - Functional user authentication system.
@@ -96,7 +96,7 @@ This project is structured to ensure a systematic and incremental development pr
      - **Video:** [Building REST APIs](https://www.youtube.com/watch?v=pKd0Rpw7O48)  
   2. Display books as cards on the homepage using React.js.  
      - **Reading:** [React Components](https://reactjs.org/docs/components-and-props.html)  
-     - **Video:** [React Component Tutorial](https://www.youtube.com/watch?v=9boMnm5X9ak)  
+     - **Video:** [React Component Tutorial](https://www.youtube.com/watch?v=S4VH8hddg8c&t=431s)  
 
 - **Deliverables:**  
   - A functional book management system.
@@ -108,7 +108,7 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**  
   1. Set up a MongoDB Atlas database and connect it to the backend.  
      - **Reading:** [MongoDB Atlas Setup](https://www.mongodb.com/docs/atlas/getting-started/)  
-     - **Video:** [MongoDB Atlas Guide](https://www.youtube.com/watch?v=rPqRyYJmx2g)  
+     - **Video:** [MongoDB Atlas Guide](https://www.youtube.com/watch?v=bBA9rUdqmgY&t=286s)  
   2. Test API endpoints using Postman.  
      - **Reading:** [Postman Docs](https://learning.postman.com/docs/getting-started/introduction/)  
      - **Video:** [Postman Tutorial](https://www.youtube.com/watch?v=VywxIQ2ZXw4)  
@@ -126,7 +126,7 @@ This project is structured to ensure a systematic and incremental development pr
      - **Video:** [Testing React Apps](https://www.youtube.com/watch?v=8Xwq35cPwYg)  
   2. Deploy the app using Vercel (frontend) and Render (backend).  
      - **Reading:** [Vercel Deployment Guide](https://vercel.com/docs)  
-     - **Video:** [Deploy MERN Apps](https://www.youtube.com/watch?v=KKyag6t98g8)  
+     - **Video:** [Deploy MERN Apps](https://www.youtube.com/watch?v=VigFI4TuwzI&t=19s)  
 
 - **Deliverables:**  
   - Fully deployed BookStore application accessible via a public URL.
