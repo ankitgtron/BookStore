@@ -148,4 +148,5 @@ This project is structured to ensure a systematic and incremental development pr
 3. [MongoDB Documentation](https://www.mongodb.com/docs/)  
 4. [Express.js Documentation](https://expressjs.com/)  
 5. [Node.js Documentation](https://nodejs.org/en/docs/)
-6. https://www.youtube.com/watch?v=7l5UgtWfnw0 
+6. https://www.youtube.com/watch?v=7l5UgtWfnw0
+7. https://github.com/akhil2k-lc/bookStoreApp
