@@ -45,9 +45,6 @@ To create an interactive and user-friendly BookStore application that enables us
 ## **Workflow Overview**
 The application workflow involves user authentication, adding books to the collection, and managing them efficiently. The responsive design ensures a smooth experience across devices.
 
-### **Flowchart**  
-![Flowchart Placeholder](https://via.placeholder.com/800x400.png?text=Flowchart+Placeholder)
-
 ---
 
 ### **Project Structure for Feature Implementation**
